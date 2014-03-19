@@ -148,6 +148,7 @@ module Faker
   end
 end
 
+require 'faker/apple'
 require 'faker/address'
 require 'faker/code'
 require 'faker/company'

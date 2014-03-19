@@ -8,6 +8,10 @@ for the creation of this gem), having real-looking test data, and having your
 database populated with more than one or two records while you're doing
 development.
 
+Modifications
+-------------
+Forked from stympy/faker to include details for Apple certifications.
+
 Installing
 ----------
 ```bash
